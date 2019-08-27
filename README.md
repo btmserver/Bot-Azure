@@ -1,5 +1,5 @@
 # V3 Deprecation Notification
-
+hi
 Microsoft Bot Framework SDK V4 was released in September 2018, and since then we have shipped a few dot-release improvements. As announced previously, the V3  SDK is being retired with final long-term support ending on December 31st, 2019.
 Accordingly, there will be no more development in this repo. **Existing V3 bot workloads will continue to run without interruption. We have no plans to disrupt any running workloads**.
 
